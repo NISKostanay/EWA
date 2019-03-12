@@ -1,4 +1,4 @@
 # EWA
 Open Source Project for measure of environment on Arduino Platform and send data from sensors in 3G networks to Control Panel
 
-<img src = "circuit.png" width = "20%">
+<img src = "circuit.png" width = "50%">
